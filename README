@@ -1,0 +1,9 @@
+Digit Span Task
+================
+
+The digit span task is used as a measurement of working memory.
+
+For more information, see:
+https://en.wikipedia.org/wiki/Memory_span#Digit-span
+
+In this implementation, you are given 6 sets of numbers of each length, and you must get 5 our of 6 correct to advance.
